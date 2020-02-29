@@ -1,0 +1,8 @@
+a {
+  color: var(--link-color);
+}
+
+a:focus,
+a:hover {
+  color: var(--dark-link-color);
+}
